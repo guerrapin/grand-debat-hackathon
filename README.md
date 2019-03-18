@@ -24,3 +24,6 @@ Un travail d'annotation est proposé ici:
 https://grandeannotation.fr/ (à voir ce que ça vaut)
 
 #### To do
+
+#### Idée
+comparatif des codes postaux le vrai débat / le grand débat (ruralité vs urbanité ?)
