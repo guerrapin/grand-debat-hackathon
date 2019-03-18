@@ -1,13 +1,19 @@
-Plusieurs documents intéressants :
-
+Analyses :
 *Analyse questions fermées du grand débat :* https://www.data.gouv.fr/fr/reuses/veillon/   ;    https://www.data.gouv.fr/fr/reuses/analyse-simple-des-questions-fermees/   ;    https://www.data.gouv.fr/fr/reuses/premiers-resultats-article-publie-sur-lefigaro-fr/
 *Analyse des contributions :* https://www.data.gouv.fr/fr/reuses/participants-au-grand-debat-representativite-des-populations-utilisation-detournee/
 *Cartographie des propositions du grand débat :* https://cartolabe-dev.lri.fr/map/debatt
-
 *Observatoire du grand débat :* https://observdebats.hypotheses.org
 
+Travaux de géolocalisation :
 *Nombre de contributeurs par département :* https://www.data.gouv.fr/fr/datasets/r/e454f566-2fec-4489-90af-2c1a0cc48bac (au 6 février)
 *Contributions géolocalisées :* https://www.data.gouv.fr/fr/reuses/contributions-rapportees-a-la-population-par-departement-sur-granddebat-fr/
 
+Autres projets conséquents de l'Open Data :
 *Annotation des contributions par des humains :* https://www.data.gouv.fr/fr/reuses/grandeannotation-fr/
 *Moteur de recherche des contributions :* https://www.data.gouv.fr/fr/reuses/moteur-de-recherche-des-contributions-du-grand-debat/
+
+
+Travaux de code for france :
+*Data :* https://drive.codefor.fr/s/q58YDTp4s4sR76p
+*Pad :* https://pad.codefor.fr/XDOSHPKLSs-yPb_9shkgtQ#
+*Chat :* https://chat.codefor.fr/channel/granddebat
