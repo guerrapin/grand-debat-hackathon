@@ -17,3 +17,4 @@ Travaux de code for france :
 *Data :* https://drive.codefor.fr/s/q58YDTp4s4sR76p
 *Pad :* https://pad.codefor.fr/XDOSHPKLSs-yPb_9shkgtQ#
 *Chat :* https://chat.codefor.fr/channel/granddebat
+*Page projet :* https://codefor.fr/assemblies/opendebat
