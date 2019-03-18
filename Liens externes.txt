@@ -18,3 +18,6 @@ Travaux de code for france :
 *Pad :* https://pad.codefor.fr/XDOSHPKLSs-yPb_9shkgtQ#
 *Chat :* https://chat.codefor.fr/channel/granddebat
 *Page projet :* https://codefor.fr/assemblies/opendebat
+
+Articles de Presse
+http://www.leparisien.fr/politique/grand-debat-c-est-une-france-urbaine-favorisee-et-retraitee-qui-s-est-exprimee-10-03-2019-8028327.php
